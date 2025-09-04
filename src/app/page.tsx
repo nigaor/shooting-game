@@ -20,7 +20,7 @@ export default function Home() {
     game.run();
 
     return () => {
-                        //test  
+                        //test   
     };
   }, []);
 
